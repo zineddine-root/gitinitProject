@@ -1,0 +1,2 @@
+# gitinitProject
+our first project
